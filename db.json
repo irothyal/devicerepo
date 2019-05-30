@@ -1,17 +1,21 @@
-[
 {
-  "deviceName": "TestDevice",
-  "deviceStatus": "OK",
-  "deivceId": 1
-},
-{
-  "deviceName": "TestDevice2",
-  "deviceStatus": "OK",
-  "deivceId": 2
-},
-{
-  "deviceName": "TestDevice3",
-  "deviceStatus": "OK",
-  "deivceId": 3
+  "devices" : [
+    {
+    "deviceName": "TestDevice",
+    "deviceStatus": "OK",
+    "deivceId": 1
+    },
+    {
+      "deviceName": "TestDevice2",
+      "deviceStatus": "OK",
+      "deivceId": 2
+    },
+    {
+      "deviceName": "TestDevice3",
+      "deviceStatus": "OK",
+      "deivceId": 3
+    }
+  ]
 }
-]
+
+
