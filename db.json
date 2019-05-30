@@ -1,21 +1,11 @@
 {
-  "devices" : [
+  "posts": [
     {
-    "deviceName": "TestDevice",
-    "deviceStatus": "OK",
-    "deivceId": 1
-    },
-    {
-      "deviceName": "TestDevice2",
-      "deviceStatus": "OK",
-      "deivceId": 2
-    },
-    {
-      "deviceName": "TestDevice3",
-      "deviceStatus": "OK",
-      "deivceId": 3
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
-
